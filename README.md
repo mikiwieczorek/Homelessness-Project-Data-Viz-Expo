@@ -1,10 +1,5 @@
 # Homelessness-Project-Data-Viz-Expo
 
-<<<<<<< HEAD
-=======
-test from Marshal's local
-Marshal's test: blah blah blah 
->>>>>>> c96c341890dad5abb27412d9c5e19b6996be9615
 
 General statistics across states
 -identifier column for regions (Midwest, East Coast, West Coast, etc.) for %change relative to 2018
